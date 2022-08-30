@@ -1,6 +1,6 @@
 # Hello, Devs! :v:	
 
-## My name is Pablo de A. Silva - Welcome to my Github profile.
+## My name is Pablo de A. Silva | Welcome to my Github profile.
 ## Info :point_down:
 
 - I am currently studying Computer Science at Descomplica University, i'm in the second trimester, graduation forecast in 2026.
