@@ -8,8 +8,7 @@
 - If you want to get in touch, send me a message on my linkedin or e-mail, they are in the profile.
 
 ### Tools and Technologies :pushpin:	
-<img height=80px width=80px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
-<img height=80px width=80px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+<img height=80px width=80px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg", height=80px width=80px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
 <img height=80px width=80px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
 <img height=80px width=80px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
 <img height=80px width=80px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
