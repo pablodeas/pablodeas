@@ -3,8 +3,8 @@
 ## My name is Pablo de Andrade Silva | Welcome to my Github profile.
 ## Info :point_down:
 
-- I'm currently working as a Database Monitor at Globalsys..
-- My focus remains on acquiring professional knowledge and experience..
+- I'm currently working as a Software Developer at Code N' App.
+- My focus remains on acquiring professional knowledge and experience.
 - If you want to get in touch, send me a message on my linkedin or e-mail, they are in the profile.
 
 ### Tools and Technologies :pushpin:	
