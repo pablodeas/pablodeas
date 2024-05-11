@@ -1,6 +1,6 @@
 <h2>Hi, I'm Pablo Andrade!</h2>
 
-<img align="right "src="./src/rick.gif" width="230" />
+<img align="right" src="./src/rick.gif" alt="Rick Gif">
 - FullStack Developer - Computer Science student and technology enthusiast
 - Currently working on web projects with Django and Hugo frameworks
 
