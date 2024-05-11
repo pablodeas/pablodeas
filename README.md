@@ -1,9 +1,9 @@
-<h2>Hi, Welcome!</h2>
+<h2>Hi, Welcome! <img width="35" align="center"src="https://img.icons8.com/wired/64/handshake-heart.png" alt="handshake-heart"/></h2>
 
-<img align="right" src="./src/rick.gif" alt="Rick Gif" width="200">
-- FullStack Developer
-- Computer Science student and technology enthusiast
-- Currently working on web projects with Django and Hugo frameworks
+<p>
+	<img align="right" src="./src/rick.gif" alt="Rick Gif" width="200">	
+	<p>FullStack Developer</br>Computer Science student and technology enthusiast</br>Currently working on web projects with Django and Hugo frameworks</p>
+</p>
 
 <h3>Things I code with</h3>
 <p>
