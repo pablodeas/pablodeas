@@ -1,7 +1,8 @@
-<h2>Hi, I'm Pablo Andrade!</h2>
+<h2>Hi, Welcome!</h2>
 
 <img align="right" src="./src/rick.gif" alt="Rick Gif" width="200">
-- FullStack Developer - Computer Science student and technology enthusiast
+- FullStack Developer
+- Computer Science student and technology enthusiast
 - Currently working on web projects with Django and Hugo frameworks
 
 <h3>Things I code with</h3>
@@ -28,7 +29,7 @@
 </p>
 
 <h3>My latest Posts</h3>
-- [How to Backup and Upload With Zsh](https://pabu-dev-blog.netlify.app/posts/how-to-backup-with-zsh/)
+<a href="https://pabu-dev-blog.netlify.app/posts/how-to-backup-with-zsh/" title="Backup and Upload With Zsh">How to Backup and Upload With Zsh</a>
 
 <h3>Where to Find Me</h3>
 <p>
