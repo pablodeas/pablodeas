@@ -1,4 +1,4 @@
-<h2>Hi, Welcome! <img width="35" align="center"src="https://img.icons8.com/wired/64/handshake-heart.png" alt="handshake-heart"/></h2>
+<h2>Hi, Welcome! <img width="35" align="center" src="https://img.icons8.com/dusk/64/handshake-heart.png" alt="handshake-heart"/></h2>
 
 <p>
 	<img align="right" src="./src/rick.gif" alt="Rick Gif" width="200">	
