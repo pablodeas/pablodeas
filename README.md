@@ -35,5 +35,5 @@
 <p>
 	<a href="https://github.com/pablodeas" target="_blank"><img width="48" height="48" src="https://img.icons8.com/fluency/48/github.png" alt="github"/></a> 
 	<a href="https://www.linkedin.com/in/pablodeas" target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/></a> 
-	<a href="https://api.whatsapp.com/send?phone=21966916139" target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/whatsapp--v1.png" alt="whatsapp--v1"/></a>
+	<a href="https://api.whatsapp.com/send?phone=5521966916139" target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/whatsapp--v1.png" alt="whatsapp--v1"/></a>
 </p>
