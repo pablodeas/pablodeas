@@ -28,9 +28,12 @@
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" />
 </p>
 
-<h3>My latest Posts</h3>
-<a href="https://pabu-dev-blog.netlify.app/posts/how-to-sql-server-docker/" title="SQL Server Docker">SQL Server com Docker Compose</a>
-<a href="https://pabu-dev-blog.netlify.app/posts/how-to-backup-with-zsh/" title="Backup and Upload With Zsh">Backup e Upload com Zsh</a>
+<p>
+	<h3>My latest Posts</h3>
+	<a href="https://pabu-dev-blog.netlify.app/posts/how-to-sql-server-docker/" title="SQL 	Server Docker">SQL Server com Docker Compose</a>
+	<br>
+	<a href="https://pabu-dev-blog.netlify.app/posts/how-to-backup-with-zsh/" title="Backup 	and Upload With Zsh">Backup e Upload com Zsh</a>
+</p>
 
 <h3>Where to Find Me</h3>
 <p>
