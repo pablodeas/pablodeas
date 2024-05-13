@@ -29,7 +29,8 @@
 </p>
 
 <h3>My latest Posts</h3>
-<a href="https://pabu-dev-blog.netlify.app/posts/how-to-backup-with-zsh/" title="Backup and Upload With Zsh">How to Backup and Upload With Zsh</a>
+<a href="https://pabu-dev-blog.netlify.app/posts/how-to-sql-server-docker/" title="SQL Server Docker">SQL Server com Docker Compose</a>
+<a href="https://pabu-dev-blog.netlify.app/posts/how-to-backup-with-zsh/" title="Backup and Upload With Zsh">Backup e Upload com Zsh</a>
 
 <h3>Where to Find Me</h3>
 <p>
