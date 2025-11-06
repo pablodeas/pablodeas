@@ -2,7 +2,7 @@
 
 <p>
 	<img align="right" src="./src/rick.gif" alt="Rick Gif" width="200">	
-	<p>FullStack Developer</br>Computer Science student and technology enthusiast</br>Currently working on web projects with Django and Hugo frameworks</p>
+	<p>FullStack Developer</br>Computer Science student and technology enthusiast</br>Currently working on web projects with Django, FastAPI and Flask. Also writting stuffs in my blog with HUGO framework.</p>
 </p>
 
 <h3>Things I code with</h3>
